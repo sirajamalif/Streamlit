@@ -79,17 +79,4 @@ pip install streamlit pandas numpy matplotlib
 streamlit run stfront.py
 ```
 
----
-
-## 📂 Project Structure
-
-```bash
-.
-├── stfront.py         # Main file with everything I built
-├── example.txt        # Just a test file for the file caching demo
-├── pages/             # (Optional) for multipage layout
-│   ├── 1_Home.py
-│   ├── 2_About.py
-│   └── 3_Contact.py
-```
 
